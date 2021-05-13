@@ -37,7 +37,7 @@ I do of course have some metrics available:
 3. For recommending based on cosine similarity, I want to see whether or not I can get some that are clearly a lot more similar (cs close to 1) and others clearly different (cs close to -1), vs. all having cosine similarity close to 0.
 4. I would also hope that the pairs/groups of caches with cosine distance closest to 0 would tend to be in the same clusters from KMeans and/or DBSCAN -- using the different methods to validate one another.
 
-### [Click Here for the Executive Summary](ExecSummary.md)
+### [Click Here for the Executive Summary](EXEC_SUMMARY.md)
 
 ### Table of Contents:
 
